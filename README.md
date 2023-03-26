@@ -22,7 +22,8 @@ Order History: A user should be able to view a list of their past orders and the
 
                                                Product catalog
                                             
-![Screenshot (1393)](https://user-images.githubusercontent.com/94470849/227789194-15266135-8f50-4d5a-ab61-35ea8ca2bde6.png)
+![Screenshot (1403)](https://user-images.githubusercontent.com/94470849/227791134-f28fa1eb-8e3c-43da-a08d-2e63b543e2cc.png)
+
 
                                               Product Detail 
 
